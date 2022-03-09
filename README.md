@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures,Algorithms, Apps Development and Machine Learning.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -53,8 +53,8 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/byte-exe/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=byte-exe">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/byte-exe?tab=followers"><img src="https://img.shields.io/github/followers/byte-exe?label=Followers&style=social" alt="GitHub Badge"></a>
 
